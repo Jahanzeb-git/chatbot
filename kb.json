@@ -1,0 +1,19 @@
+# Please have your own data Here, for security reasons this file remain empty. 
+# Here below is Example format: 
+[
+  {
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero."
+  },
+  {
+    "content": "Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet."
+  },
+  {
+    "content": "Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta."
+  },
+  {
+    "content": "Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent."
+  },
+  {
+    "content": "Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor."
+  }
+]
